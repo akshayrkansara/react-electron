@@ -1,3 +1,9 @@
+After cloning to run this app the command is
+
+**npm run electron:serve**
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
